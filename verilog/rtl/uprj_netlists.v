@@ -15,6 +15,7 @@
 
 // Include caravel global defines for the number of the user project IO pads 
 `include "defines.v"
+
 `define USE_POWER_PINS
 
 `ifdef GL
@@ -23,6 +24,15 @@
     `include "gl/user_project_wrapper.v"
     `include "gl/user_proj_example.v"
 `else
+    `include "Lexicon/sky130_sram_1kbyte_1rw1r_32x256_8.v"
+    
+   // for netlist verification
+    //`include "../gl/user_project_wrapper.v"
+    //`include "../gl/user_proj_example.v"
+   
+  // for rtl verification
     `include "user_project_wrapper.v"
     `include "user_proj_example.v"
+    `include "Lexicon/Lexicon.v"
+    
 `endif
