@@ -1,6 +1,6 @@
 ##
 ## LEF for PtnCells ;
-## created by Innovus v20.10-p004_1 on Sat Jul 10 11:20:00 2021
+## created by Innovus v20.10-p004_1 on Thu Aug 12 11:31:29 2021
 ##
 
 VERSION 5.8 ;
@@ -5115,19 +5115,19 @@ MACRO user_proj_example
     USE POWER ;
     PORT
       LAYER met4 ;
-        RECT 10.790000 10.930000 15.790000 2948.430000 ;
+        RECT 2226.950000 10.930000 2228.950000 2948.430000 ;
     END
     PORT
       LAYER met4 ;
-        RECT 2223.950000 10.930000 2228.950000 2948.430000 ;
+        RECT 10.790000 10.930000 12.790000 2948.430000 ;
     END
 
 # P/G pin shape extracted from block 'sky130_sram_1kbyte_1rw1r_32x256_8'
     PORT
       LAYER met4 ;
-        RECT 526.150000 2433.975000 527.890000 2821.955000 ;
+        RECT 535.080000 2492.935000 536.820000 2880.915000 ;
       LAYER met4 ;
-        RECT 57.630000 2433.975000 59.370000 2821.955000 ;
+        RECT 66.560000 2492.935000 68.300000 2880.915000 ;
     END
 # end of P/G pin shape extracted from block 'sky130_sram_1kbyte_1rw1r_32x256_8'
 
@@ -5135,9 +5135,9 @@ MACRO user_proj_example
 # P/G pin shape extracted from block 'sky130_sram_1kbyte_1rw1r_32x256_8'
     PORT
       LAYER met4 ;
-        RECT 1169.410000 2442.895000 1171.150000 2830.875000 ;
+        RECT 1712.085000 2489.225000 1713.825000 2877.205000 ;
       LAYER met4 ;
-        RECT 1637.930000 2442.895000 1639.670000 2830.875000 ;
+        RECT 2180.605000 2489.225000 2182.345000 2877.205000 ;
     END
 # end of P/G pin shape extracted from block 'sky130_sram_1kbyte_1rw1r_32x256_8'
 
@@ -5145,9 +5145,9 @@ MACRO user_proj_example
 # P/G pin shape extracted from block 'sky130_sram_1kbyte_1rw1r_32x256_8'
     PORT
       LAYER met4 ;
-        RECT 1730.785000 2441.150000 1732.525000 2829.130000 ;
+        RECT 1636.775000 2487.470000 1638.515000 2875.450000 ;
       LAYER met4 ;
-        RECT 2199.305000 2441.150000 2201.045000 2829.130000 ;
+        RECT 1168.255000 2487.470000 1169.995000 2875.450000 ;
     END
 # end of P/G pin shape extracted from block 'sky130_sram_1kbyte_1rw1r_32x256_8'
 
@@ -5155,9 +5155,9 @@ MACRO user_proj_example
 # P/G pin shape extracted from block 'sky130_sram_1kbyte_1rw1r_32x256_8'
     PORT
       LAYER met4 ;
-        RECT 1067.175000 2433.970000 1068.915000 2821.950000 ;
+        RECT 614.205000 2492.940000 615.945000 2880.920000 ;
       LAYER met4 ;
-        RECT 598.655000 2433.970000 600.395000 2821.950000 ;
+        RECT 1082.725000 2492.940000 1084.465000 2880.920000 ;
     END
 # end of P/G pin shape extracted from block 'sky130_sram_1kbyte_1rw1r_32x256_8'
 
@@ -5165,9 +5165,9 @@ MACRO user_proj_example
 # P/G pin shape extracted from block 'sky130_sram_1kbyte_1rw1r_32x256_8'
     PORT
       LAYER met4 ;
-        RECT 1055.590000 169.965000 1057.330000 557.945000 ;
+        RECT 1088.680000 64.730000 1090.420000 452.710000 ;
       LAYER met4 ;
-        RECT 587.070000 169.965000 588.810000 557.945000 ;
+        RECT 620.160000 64.730000 621.900000 452.710000 ;
     END
 # end of P/G pin shape extracted from block 'sky130_sram_1kbyte_1rw1r_32x256_8'
 
@@ -5175,9 +5175,9 @@ MACRO user_proj_example
 # P/G pin shape extracted from block 'sky130_sram_1kbyte_1rw1r_32x256_8'
     PORT
       LAYER met4 ;
-        RECT 519.535000 174.400000 521.275000 562.380000 ;
+        RECT 539.385000 52.055000 541.125000 440.035000 ;
       LAYER met4 ;
-        RECT 51.015000 174.400000 52.755000 562.380000 ;
+        RECT 70.865000 52.055000 72.605000 440.035000 ;
     END
 # end of P/G pin shape extracted from block 'sky130_sram_1kbyte_1rw1r_32x256_8'
 
@@ -5185,9 +5185,9 @@ MACRO user_proj_example
 # P/G pin shape extracted from block 'sky130_sram_1kbyte_1rw1r_32x256_8'
     PORT
       LAYER met4 ;
-        RECT 1724.165000 165.220000 1725.905000 553.200000 ;
+        RECT 1704.310000 52.715000 1706.050000 440.695000 ;
       LAYER met4 ;
-        RECT 2192.685000 165.220000 2194.425000 553.200000 ;
+        RECT 2172.830000 52.715000 2174.570000 440.695000 ;
     END
 # end of P/G pin shape extracted from block 'sky130_sram_1kbyte_1rw1r_32x256_8'
 
@@ -5195,9 +5195,9 @@ MACRO user_proj_example
 # P/G pin shape extracted from block 'sky130_sram_1kbyte_1rw1r_32x256_8'
     PORT
       LAYER met4 ;
-        RECT 1618.365000 154.460000 1620.105000 542.440000 ;
+        RECT 1631.605000 68.425000 1633.345000 456.405000 ;
       LAYER met4 ;
-        RECT 1149.845000 154.460000 1151.585000 542.440000 ;
+        RECT 1163.085000 68.425000 1164.825000 456.405000 ;
     END
 # end of P/G pin shape extracted from block 'sky130_sram_1kbyte_1rw1r_32x256_8'
 
@@ -5207,19 +5207,19 @@ MACRO user_proj_example
     USE GROUND ;
     PORT
       LAYER met4 ;
-        RECT 3.990000 4.130000 8.990000 2955.230000 ;
+        RECT 2230.750000 7.130000 2232.750000 2952.230000 ;
     END
     PORT
       LAYER met4 ;
-        RECT 2230.750000 4.130000 2235.750000 2955.230000 ;
+        RECT 6.990000 7.130000 8.990000 2952.230000 ;
     END
 
 # P/G pin shape extracted from block 'sky130_sram_1kbyte_1rw1r_32x256_8'
     PORT
       LAYER met4 ;
-        RECT 54.230000 2430.575000 55.970000 2825.355000 ;
+        RECT 63.160000 2489.535000 64.900000 2884.315000 ;
       LAYER met4 ;
-        RECT 529.550000 2430.575000 531.290000 2825.355000 ;
+        RECT 538.480000 2489.535000 540.220000 2884.315000 ;
     END
 # end of P/G pin shape extracted from block 'sky130_sram_1kbyte_1rw1r_32x256_8'
 
@@ -5227,9 +5227,9 @@ MACRO user_proj_example
 # P/G pin shape extracted from block 'sky130_sram_1kbyte_1rw1r_32x256_8'
     PORT
       LAYER met4 ;
-        RECT 1641.330000 2439.495000 1643.070000 2834.275000 ;
+        RECT 2184.005000 2485.825000 2185.745000 2880.605000 ;
       LAYER met4 ;
-        RECT 1166.010000 2439.495000 1167.750000 2834.275000 ;
+        RECT 1708.685000 2485.825000 1710.425000 2880.605000 ;
     END
 # end of P/G pin shape extracted from block 'sky130_sram_1kbyte_1rw1r_32x256_8'
 
@@ -5237,9 +5237,9 @@ MACRO user_proj_example
 # P/G pin shape extracted from block 'sky130_sram_1kbyte_1rw1r_32x256_8'
     PORT
       LAYER met4 ;
-        RECT 2202.705000 2437.750000 2204.445000 2832.530000 ;
+        RECT 1164.855000 2484.070000 1166.595000 2878.850000 ;
       LAYER met4 ;
-        RECT 1727.385000 2437.750000 1729.125000 2832.530000 ;
+        RECT 1640.175000 2484.070000 1641.915000 2878.850000 ;
     END
 # end of P/G pin shape extracted from block 'sky130_sram_1kbyte_1rw1r_32x256_8'
 
@@ -5247,9 +5247,9 @@ MACRO user_proj_example
 # P/G pin shape extracted from block 'sky130_sram_1kbyte_1rw1r_32x256_8'
     PORT
       LAYER met4 ;
-        RECT 595.255000 2430.570000 596.995000 2825.350000 ;
+        RECT 1086.125000 2489.540000 1087.865000 2884.320000 ;
       LAYER met4 ;
-        RECT 1070.575000 2430.570000 1072.315000 2825.350000 ;
+        RECT 610.805000 2489.540000 612.545000 2884.320000 ;
     END
 # end of P/G pin shape extracted from block 'sky130_sram_1kbyte_1rw1r_32x256_8'
 
@@ -5257,9 +5257,9 @@ MACRO user_proj_example
 # P/G pin shape extracted from block 'sky130_sram_1kbyte_1rw1r_32x256_8'
     PORT
       LAYER met4 ;
-        RECT 583.670000 166.565000 585.410000 561.345000 ;
+        RECT 616.760000 61.330000 618.500000 456.110000 ;
       LAYER met4 ;
-        RECT 1058.990000 166.565000 1060.730000 561.345000 ;
+        RECT 1092.080000 61.330000 1093.820000 456.110000 ;
     END
 # end of P/G pin shape extracted from block 'sky130_sram_1kbyte_1rw1r_32x256_8'
 
@@ -5267,9 +5267,9 @@ MACRO user_proj_example
 # P/G pin shape extracted from block 'sky130_sram_1kbyte_1rw1r_32x256_8'
     PORT
       LAYER met4 ;
-        RECT 47.615000 171.000000 49.355000 565.780000 ;
+        RECT 67.465000 48.655000 69.205000 443.435000 ;
       LAYER met4 ;
-        RECT 522.935000 171.000000 524.675000 565.780000 ;
+        RECT 542.785000 48.655000 544.525000 443.435000 ;
     END
 # end of P/G pin shape extracted from block 'sky130_sram_1kbyte_1rw1r_32x256_8'
 
@@ -5277,9 +5277,9 @@ MACRO user_proj_example
 # P/G pin shape extracted from block 'sky130_sram_1kbyte_1rw1r_32x256_8'
     PORT
       LAYER met4 ;
-        RECT 2196.085000 161.820000 2197.825000 556.600000 ;
+        RECT 2176.230000 49.315000 2177.970000 444.095000 ;
       LAYER met4 ;
-        RECT 1720.765000 161.820000 1722.505000 556.600000 ;
+        RECT 1700.910000 49.315000 1702.650000 444.095000 ;
     END
 # end of P/G pin shape extracted from block 'sky130_sram_1kbyte_1rw1r_32x256_8'
 
@@ -5287,9 +5287,9 @@ MACRO user_proj_example
 # P/G pin shape extracted from block 'sky130_sram_1kbyte_1rw1r_32x256_8'
     PORT
       LAYER met4 ;
-        RECT 1146.445000 151.060000 1148.185000 545.840000 ;
+        RECT 1159.685000 65.025000 1161.425000 459.805000 ;
       LAYER met4 ;
-        RECT 1621.765000 151.060000 1623.505000 545.840000 ;
+        RECT 1635.005000 65.025000 1636.745000 459.805000 ;
     END
 # end of P/G pin shape extracted from block 'sky130_sram_1kbyte_1rw1r_32x256_8'
 
@@ -6050,15 +6050,15 @@ MACRO user_proj_example
       RECT 0.000000 3.920000 2238.640000 4.820000 ;
       RECT 0.000000 0.000000 2239.740000 3.920000 ;
     LAYER met4 ;
-      RECT 0.000000 2955.630000 2239.740000 2960.040000 ;
-      RECT 9.390000 2948.830000 2230.350000 2955.630000 ;
-      RECT 2229.350000 10.530000 2230.350000 2948.830000 ;
-      RECT 16.190000 10.530000 2223.550000 2948.830000 ;
-      RECT 9.390000 10.530000 10.390000 2948.830000 ;
-      RECT 2236.150000 3.730000 2239.740000 2955.630000 ;
-      RECT 9.390000 3.730000 2230.350000 10.530000 ;
-      RECT 0.000000 3.730000 3.590000 2955.630000 ;
-      RECT 0.000000 0.000000 2239.740000 3.730000 ;
+      RECT 0.000000 2952.530000 2239.740000 2960.040000 ;
+      RECT 9.290000 2948.730000 2230.450000 2952.530000 ;
+      RECT 2229.250000 10.630000 2230.450000 2948.730000 ;
+      RECT 13.090000 10.630000 2226.650000 2948.730000 ;
+      RECT 9.290000 10.630000 10.490000 2948.730000 ;
+      RECT 2233.050000 6.830000 2239.740000 2952.530000 ;
+      RECT 9.290000 6.830000 2230.450000 10.630000 ;
+      RECT 0.000000 6.830000 6.690000 2952.530000 ;
+      RECT 0.000000 0.000000 2239.740000 6.830000 ;
     LAYER met5 ;
       RECT 0.000000 0.000000 2239.740000 2960.040000 ;
   END
